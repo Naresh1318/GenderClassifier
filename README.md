@@ -10,5 +10,5 @@ Gender_classification_challenge
 ##Usage
 
 ```
-python demo.py
+python Run_Code.py
 ```
