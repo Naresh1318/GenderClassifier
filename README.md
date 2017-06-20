@@ -1,13 +1,13 @@
 # GenderClassifier
 Gender_classification_challenge
 
-##Dependencies
+## Dependencies 
 
 * Scikit-learn
 * numpy
 * scipy
 
-##Usage
+## Usage
 
 ```
 python Run_Code.py
